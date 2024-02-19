@@ -1,7 +1,6 @@
 # Capstone-Modul-3
 ### **Saudi Arabia Used Cars**
 
-[Sumber data Saudi Arabia Used Cars](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) 
 
 ### **Contents**
 
